@@ -20,13 +20,13 @@ for line in sys.stdin:
 with open('nicks.csv', 'w') as fh:
     out = csv.writer(fh)
     out.writerow(['nick', 'coffees'])
-    for nick, coffee in nicks.items():
+    for nick, coffee in nicks.most_common():
         out.writerow([nick, coffee])
 
 with open('coffees.csv', 'w') as fh:
     out = csv.writer(fh)
     out.writerow(['coffee', 'served'])
-    for coffee, served in coffees.items():
+    for coffee, served in coffees.most_common():
         out.writerow([coffee, served])
 
 
