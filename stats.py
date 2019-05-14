@@ -12,7 +12,7 @@ nicks = Counter()
 drinks = Counter()
 
 for line in sys.stdin:
-    m = re.search(r'zoia brews and pours a (pot|cup) of (.+), and sends it sliding down the bar to (\w+)( \()?', line)
+    m = re.search(r'zoia (fills a pint glass with|brews and pours a pot of|brews and pours a cup of) (.+), and sends it sliding down the bar to (\w+)( \()?', line)
     if m:
         nicks[m.group(3)] += 1
         drinks[m.group(2)] += 1
