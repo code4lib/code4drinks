@@ -1,85 +1,392 @@
-nick,coffees
-Panama Esmeralda Especial,4
-Espresso Nuevo,3
-S.O. India Sitara,3
-Sumatra Lake Tawar,3
-Ethiopia Yirgacheffe Aricha Selection #7,3
-Kenya Giakanja,3
-Ethiopia Sidamo Natural Korate,3
-Kenya Kirinyaga Kii Peaberry Espresso,2
-Panama Elida Estate,2
-Colombia Hato Viejo Cup of Excellence,2
-Nectar,2
-Ka'u Bourbon,2
-Ethiopia Sidama ARDI,2
-Sumatra Danau Toba,2
-Mocha Java Espresso,2
-Colombia El Castillo Micro-Lot Nelson Melo,2
-Kenya Mamuto,2
-El Salvador La Montana Pacamara,2
-Colombia La Escuelita,2
-Sumatra Golden Mandheling,2
-Colombia Granja La Esperanza Geisha,2
-El Salvador Pacamara Finca Los Alpes The Bank,2
-Ethiopia Yirga Cheffe Koke Espresso,2
-Mocha Java,2
-Kenya AA Gachatha,2
-Hawaii Isla Kona Mauka,2
-Kenya AA Mathareini,2
-Kenya AA Wagamuga Auction Lot,1
-Ethiopia Natural Yirgacheffe Aricha Special Microlot,1
-Honduras Fernandez Farm,1
-Extra Fancy Kona Coffee Medium Roast,1
-"El Salvador Montecarlos Tablon Crater, and sends it sliding down the bar to brews and pours a cup of Ethiopia Sidamo Guji",1
-Hacienda La Esmeralda,1
-Kenya Peaberry Thika Gethumbwini,1
-Ethiopia Yirgacheffe Koke,1
-Rwanda Karaba Fair Trade,1
-Colombia Huila Supremo,1
-El Salvador Montecarlos Peaberry,1
-Kenya AA Kiaora Estate Full City Roast,1
-Esmeralda Especial Panama,1
-Colombia Finca Cerro Azul,1
-Honduras David Mancia,1
-Stars of Formosa Blend,1
-Sumatra Lintong,1
-Kenya Karatu AA,1
-El Salvador Los Planes Cup of Excellence 2006,1
-Colombia Tolima Reynel Perez Micro-Lot,1
-Nicaragua El Progresso COE Lot #1,1
-El Salvador Nombre de Dios,1
-La Esmeralda Panama,1
-Kenya AA,1
-Kenya Ndiara Full Flavor Roast,1
-"Kenya Gichathaini, and sends it sliding down the bar to or brews and pours a pot of Bao Zhong Oolong Tea",1
-Colombia Pitalito Estate,1
-Guatemala La Conception,1
-Guatemala El Diamante,1
-"Colombia Cauca, Special Micro-Lot Selection Juvenal Penna",1
-La Esperanza Colombia Huila,1
-Panama El Burro Estate,1
-Starlight Blend,1
-India AA Elkhill Estate,1
-Kenya Thiriku Top Auction Lot,1
-Resiprocate Verita Espresso,1
-Kenya Peaberry Kirinyaga Kii,1
-El Patron Nicaragua Espresso,1
-Kenya Gichathaini,1
-Kenya,1
-Romance by Paradise,1
-Kenya Kangunu,1
-Kenya Mamuto Kirinyaga,1
-Kenya Karogoto,1
-Aricha Selection Seven Ethiopia Yirgacheffe,1
-Colombia Tolimas,1
-Sumatra Aceh Pondok,1
-Kenya Peaberry Muthunzunni Estate,1
-"Hamma Cooperative Yirgacheffe, Fair-Trade Organic",1
-"""Kona Sweet"" 100% Kona",1
-Rusty's Hawaiian Red Caturra Natural,1
-Guatemala El Injerto,1
-Ibonia Kenya Peaberry,1
-Nicaragua Maragogipe Organic,1
-Panama Gesha 2011,1
-Nicaraguan Maragogipe Light Roast,1
-Kenya Gethembwini,1
+nick,drinks
+yo_bj,199
+mberkowski,159
+petrichor,123
+zoia,77
+archivist,74
+Wooble,74
+everyone,71
+mistym,69
+dojobo,67
+csharp,62
+edsu,60
+anarchivist,60
+dbs,57
+jeff,56
+rsinger,51
+bshum,48
+phasefx,48
+_mst,47
+lbjay,46
+FrozenSolid,45
+gmcharlt,45
+berick,45
+jblyberg,44
+vmbrasseur,44
+Laevos,43
+stryx,43
+ksclarke,43
+HackmasterA,42
+rodgort,42
+ejk,41
+magnuse,41
+code4lib,40
+cherveny,38
+sivoais,37
+geheimnis,37
+miker,35
+bricas,34
+jackhill,33
+pencha,33
+ThatAndromeda,30
+cbeer,29
+nrogers_art,29
+jaqque,29
+kmlussier,28
+eby,28
+JBoyer,25
+Bmagic,25
+rhamby,24
+pmurray,24
+jeffnm,23
+bibliotechy,23
+ejlynema,23
+BHSPiMonkey,23
+crhalpin,22
+phasefx_,22
+Morbus,21
+jeff_,20
+ieure,19
+MrDys,19
+jtgorman,19
+egh,18
+Enthralled,18
+alanharnum,17
+niko,17
+mjgiarlo,17
+maryj,17
+prskavec,16
+ruebot,16
+k0avg,16
+collum,15
+atomotic,15
+medo,15
+terrellt,15
+sesuncedu,15
+_ja,14
+jeffdavis,14
+christoph531,14
+wickr,14
+cesardv,13
+hcayless,13
+kat3_drx,13
+awead,12
+eeevil,12
+asl2,12
+sarabee,11
+mceraso,11
+BillDueber,11
+hopkinsju,11
+Stompro,11
+truk77,11
+someone,10
+sysanthrope,10
+jcoyne,10
+jrochkind,10
+bencomp,10
+dluch,10
+maryj_,9
+markeaton,9
+atz,9
+StomproJ,9
+artunit,9
+mbklein,9
+davemenninger,9
+ndushay,8
+nomadicoder,8
+the,8
+robcaSSon,7
+jeff__,7
+craisins,7
+anyone,7
+flyingzumwalt,7
+kitteh_,7
+zemkat,7
+williw,7
+bricas_,7
+zemkat_,6
+shambrarian,6
+me,6
+sbrylander,6
+jcamins,6
+jamesrf,5
+everybody,5
+mtj_,5
+earlgrey,5
+jtgorman_,5
+djevans,5
+Satyricon,5
+iaglium,5
+Mitar,5
+jmignault,5
+th3n0rd,5
+emerac,5
+AFrozenPeach,5
+padraic,5
+duckydan,4
+sesuncedu1,4
+ablemann,4
+awead_coffee,4
+cipherrot,4
+sandbergja,4
+mberkows1i,4
+kshepherd,4
+Nemo_bis,4
+nowviskie,4
+gsf,4
+yo_bj1,4
+tpendragon,4
+rangi,4
+egspoony,4
+RowdyChildren,4
+k0avg_,4
+all,3
+eiro,3
+nmz787,3
+pmurray_away,3
+seabre,3
+dwilcox,3
+b_bonner,3
+egh_,3
+Guest13406,3
+collum_,3
+alanharn_,3
+acdha,3
+nakatomi,3
+cm_harlow,3
+Frozen,3
+davemenninger1,3
+erikhatcher,3
+dyelar,3
+jandresen,3
+punkrocker,3
+Guest16495,3
+StomproJosh,3
+sysanthrope_,3
+jblyberg_,3
+rogersna,3
+gsf_,3
+shauna,3
+ejlynema1,3
+ndushay1,3
+jeff___,3
+rsinger_,3
+anna3lc_,2
+edward,2
+tolloid,2
+Hz0,2
+mcooper,2
+royt,2
+mrbond,2
+kaarefc,2
+c4l19,2
+MrDys_home,2
+HackMasterA,2
+escowles,2
+cherveny2,2
+mistym_lunch,2
+artunit_,2
+Everyone,2
+bradl,2
+ajconsta,2
+ewlarson,2
+ruthbrarian,2
+jgpawletko,2
+afred,2
+d_prskavec,2
+ptone,2
+bjonnh,2
+ruebot_away,2
+cesardv_,2
+rordway,2
+hpottinger,2
+jobyh,2
+robcaSSon1,2
+wickr_,2
+moodaepo,2
+2019,2
+anna3lc,2
+Petrichor,2
+wooble,2
+mnsri,2
+dluch_,2
+dwgreen,2
+y,2
+ca71__,2
+magnuse_,2
+jbaiter,2
+jcamins1,2
+kanzure,2
+people,2
+onder,2
+alxp,2
+DeadTOm,2
+pencha_,2
+tjohnson,2
+eddies,2
+whoever,1
+medo1,1
+Guest14619,1
+clib21,1
+jrochkindold,1
+JacobSanford,1
+gnutls,1
+mistym_,1
+dericed,1
+try,1
+matts_away,1
+leofseige,1
+bacli1,1
+mbklein_,1
+mdm_,1
+meowrobot,1
+search,1
+Anytone,1
+conferencegoers,1
+jeff____,1
+digibrarian1,1
+helrond,1
+pfeeley,1
+alxp_,1
+this,1
+rhamby_,1
+ronallo,1
+GerardM,1
+my,1
+Guest52365,1
+goood,1
+gglitch,1
+jpstroop,1
+btingle,1
+ssimpkin,1
+corals,1
+kuthurium,1
+VooDooNOFX,1
+What,1
+cenovis,1
+hnomad,1
+ruebot_afk,1
+half,1
+slmcdanold,1
+galuszkak,1
+Arty,1
+BigD1,1
+lo5an,1
+mmitchel_,1
+This,1
+ajamielittle,1
+Laevos_,1
+jkeck,1
+rordway_,1
+RAPSCA77ION,1
+shauna_,1
+Please,1
+thomas_uc,1
+timothy,1
+Guest10480,1
+jstirnaman1,1
+a,1
+petrichor_,1
+zemkat__,1
+stairs,1
+JBoyer_alt,1
+mcfly,1
+benwbrum,1
+Guest19547,1
+jboyer,1
+jkoivist,1
+Guest16602,1
+anj,1
+panzana,1
+sandbergja2,1
+have,1
+tjvc,1
+realz,1
+markb_dpla,1
+why,1
+chrpr,1
+jrochkind1,1
+with,1
+jas,1
+Guest85053,1
+do,1
+sivoais_,1
+knickum,1
+btoms20,1
+morning,1
+dpk,1
+Xaila,1
+nnschiller1,1
+corrupt,1
+Code4Lib,1
+That,1
+mdellabitta,1
+please,1
+bryjbrown,1
+petr,1
+missing,1
+goood_,1
+LDCX,1
+librarywebchic,1
+matts,1
+sulky,1
+ruebot_iceland,1
+nattyrice,1
+bradl_,1
+Guest10075,1
+anarchivist_,1
+rsinger__,1
+jeff_______,1
+those,1
+runway,1
+kbeswick,1
+th5,1
+Librariman,1
+fmtv,1
+gugek,1
+gmcharlt_,1
+i,1
+anybody,1
+emerac1,1
+jonphipps,1
+tha,1
+HackMaster,1
+mistym_coffee,1
+omegadoom,1
+rowdychildren,1
+fkayiwa1,1
+Smirk,1
+hopkinsju_,1
+for,1
+ddg,1
+coral,1
+fkayiwa,1
+afternoon,1
+Ocaasi,1
+yo_bj_burrito,1
+_jamie,1
+Guest52694,1
+mcritchlow,1
+lbjay_,1
+rob_away,1
+mjgiarlo1,1
+rosy1280,1
+BenO,1
+West,1
+RDF,1
+mcmillwh4,1
+rordway___,1
+mhbussey,1
+no,1
+kat3_drx1,1
+Guest39906,1
